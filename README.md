@@ -145,6 +145,10 @@ Web Development
 
 <p align="left">
 
+<a href="https://www.instagram.com/4yoch/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="Instagram"/>
+</a>
+
 <a href="https://www.linkedin.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/>
 </a>
