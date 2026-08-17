@@ -18,3 +18,20 @@ Web Development
  ├── JavaScript
  └── React
 --- ## 🎯 2026 Goals * 🧠 Master Data Structures & Algorithms * ☕ Improve Java programming skills * ⚛️ Build more React projects * 🐍 Strengthen Python and Data Science * 🚀 Build full-stack projects * 💻 Solve more problems on LeetCode * 🌎 Contribute to Open Source * 📈 Build a strong developer portfolio --- ## 📊 GitHub Stats <p align="center"> <img src="https://streak-stats.demolab.com?user=4yushjha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </p> --- ## 🧩 LeetCode <p align="center"> <a href="https://leetcode.com/4yush-jha/"> <img src="https://leetcard.jacoblin.cool/4yush-jha?theme=dark&font=baloo&ext=heatmap" alt="Ayush's LeetCode Stats"/> </a> </p> --- ## 🤝 Connect With Me <p align="left"> <a href="https://www.instagram.com/4yoch/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="Instagram"/> </a> <a href="https://www.linkedin.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/> </a> <a href="https://twitter.com/im_ayushjha" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter"/> </a> <a href="https://leetcode.com/4yush-jha/" target="_blank"> <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" alt="LeetCode"/> </a> <a href="mailto:the.ayush184lap@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Email"/> </a> </p>
+
+---
+
+## 💭 Developer Mindset
+
+> **"Code. Learn. Build. Improve. Repeat."**
+
+I'm continuously working on improving my problem-solving skills, learning new technologies, and building projects that turn ideas into reality.
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a5acd&height=120&section=footer"/>
+</p>
+ fix this readme file
