@@ -139,22 +139,15 @@ A project designed to provide a digital platform for students to **submit, track
 
 ## 📊 GitHub Profile
 
-<p align="center">
-  <a href="https://github.com/4yushjha">
-    <img src="https://github-readme-stats.vercel.app/api?username=4yushjha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Ayush's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/4yushjha">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4yushjha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Ayush's Top Languages"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4yushjha&theme=tokyonight&hide_border=true" alt="Ayush's GitHub Streak"/>
-</p>
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=4yushjha\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=4yushjha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=4yushjha\&theme=dark\&hide_border=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=4yushjha\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=4yushjha&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
